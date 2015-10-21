@@ -1,0 +1,85 @@
+body
+{
+    background-color: #E2AB79;
+    font-family:  Arial, sans-serif;
+      color: #333;
+     
+   
+}
+
+
+
+nav
+{
+    display: inline-block;
+    width: 740px;
+    text-align: right;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+a:hover {
+color:red;
+text-decoration:none;
+}
+
+
+img
+{
+    margin-top: 15px;
+    height: 250px;
+    border-radius: 5px;
+    background: no-repeat;
+    position: relative;
+    box-shadow: 0px 4px 4px #1c1a19;
+    margin-bottom: 25px;
+    padding: 4px;
+   
+   
+}
+
+#bienv{
+    color: red;
+ 
+}
+
+#stage{
+float:right;
+}
+    
+    #sta{
+            background-color: rgba(0, 0, 255, 0.5);
+    width: 130px; 
+        
+    }
+
+#Exp{
+     background-color: rgba(0, 0, 255, 0.5);
+    width: 235px; 
+}
+#Ap{
+       background-color: rgba(0, 0, 255, 0.5);
+    width: 180px; 
+}
+
+
+#archi{
+float:left;
+}
+
+#comp{
+     background-color: rgba(0, 0, 255, 0.5);
+    width: 145px; 
+}
