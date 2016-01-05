@@ -55,30 +55,6 @@ img
  
 }
 
-#stage{
-float:right;
-}
-    
-    #sta{
-            background-color: rgba(0, 0, 255, 0.5);
-    width: 130px; 
-        
-    }
-
-#Exp{
-     background-color: rgba(0, 0, 255, 0.5);
-    width: 235px; 
-}
-#Ap{
-       background-color: rgba(0, 0, 255, 0.5);
-    width: 180px; 
-}
-
-
-#archi{
-float:left;
-}
-
 #comp{
      background-color: rgba(0, 0, 255, 0.5);
     width: 145px; 
